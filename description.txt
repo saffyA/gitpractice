@@ -1,0 +1,1 @@
+This project is to create a full stack restaurant menu application using Python and Flask
